@@ -1,11 +1,11 @@
 //Java program to demonstrate the basic operations of an array
-1. Initializing an array and Traversing an array ✅
-2. Taking user input for array size and elements ✅
+1. Initializing an array and Traversing an array 
+2. Taking user input for array size and elements 
 3. Updating elements at a specific index
 4. Deleting elements (set to default value, e.g., 0)
-5. Finding the length of an array ✅
-2. Taking user input for array size and elements ✅
-6. Calculating sum and average of elements ✅
+5. Finding the length of an array 
+2. Taking user input for array size and elements 
+6. Calculating sum and average of elements 
 7. Reversing an array (basic swap approach)
 8. Sorting an array (using built-in methods like Arrays.sort)
 9. Merging two arrays (built-in methods or manual)
@@ -24,7 +24,7 @@
 22. Stock Span Problem (stack approach) 
 
 //Array Problems (Leetcode)
-1.Searching an element → 704. Binary Search ✅ //comment for self, understand the concept of binary search first 
+1.Searching an element → 704. Binary Search 
 2.Finding Maximum and Minimum → (simple loop) + 414. Third Maximum Number (extension)
 3.Frequency of elements → 169. Majority Element, 387. First Unique Character, 451. Sort by Frequency
 4.Second Largest/Smallest → 414. Third Maximum Number (adapt idea)
