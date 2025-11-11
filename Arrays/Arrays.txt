@@ -1,0 +1,47 @@
+//Java program to demonstrate the basic operations of an array
+1. Initializing an array and Traversing an array ✅
+2. Taking user input for array size and elements ✅
+3. Updating elements at a specific index
+4. Deleting elements (set to default value, e.g., 0)
+5. Finding the length of an array ✅
+2. Taking user input for array size and elements ✅
+6. Calculating sum and average of elements ✅
+7. Reversing an array (basic swap approach)
+8. Sorting an array (using built-in methods like Arrays.sort)
+9. Merging two arrays (built-in methods or manual)
+10. Copying an array (System.arraycopy, clone, Arrays.copyOf)
+11. Comparing two arrays (Arrays.equals)
+12. Converting array to string (Arrays.toString)
+13. Converting string to array (split, toCharArray)
+14. Frequency of elements (basic HashMap / loop)
+15. Second Largest and Second Smallest element
+16. Rotating an array (left & right)
+17. Intersection & Union of two arrays (using sets / built-in)
+18. Equilibrium index (can be done with prefix sums)
+19. Leaders in an array
+20. Next Greater Element (stack approach)
+21. Next Smaller Element (stack approach)
+22. Stock Span Problem (stack approach) 
+
+//Array Problems (Leetcode)
+1.Searching an element → 704. Binary Search ✅ //comment for self, understand the concept of binary search first 
+2.Finding Maximum and Minimum → (simple loop) + 414. Third Maximum Number (extension)
+3.Frequency of elements → 169. Majority Element, 387. First Unique Character, 451. Sort by Frequency
+4.Second Largest/Smallest → 414. Third Maximum Number (adapt idea)
+5.Rotate array → 189. Rotate Array
+6.Intersection & Union → 349. Intersection of Two Arrays, 350. Intersection II
+7.Missing number → 268. Missing Number
+8.Duplicates → 442. Find All Duplicates in an Array, 287. Find Duplicate Number
+9.Unique element(s) → 136. Single Number, 137. Single Number II, 260. Single Number III
+10.Pair with given sum → 1. Two Sum
+11.Maximum subarray sum → 53. Maximum Subarray (Kadane)
+12.Longest Increasing Subsequence → 300. LIS
+13.Longest Common Subsequence → 1143. LCS
+14.Longest Palindromic Substring → 5. Longest Palindromic Substring
+15.Grouping Anagrams → 49. Group Anagrams
+16.Majority element → 169. Majority Element
+17.Equilibrium index → 724. Find Pivot Index
+18.Leaders in an array → (custom problem, not direct LC — optional keep)
+19.Next Greater → 496. Next Greater Element I
+20.Next Smaller → (not direct LC, but can adapt monotonic stack)
+21.Stock Span Problem → 901. Online Stock Span
