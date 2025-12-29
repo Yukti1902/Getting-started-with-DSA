@@ -54,6 +54,14 @@ public class Arrays_Basics
         System.out.println("----Elements in array format (for output)----");
         System.out.println(Arrays.toString(numbers));
         sc.close();
+
+        //Largest Element in array
+        int m = numbers[o];
+        for (int i = 0; i<numbers.length; i++){
+            if(numbers[i] > m){
+                m = numbers[i];
+                System.out.println("Largest element in the array: " + m);
+            }
+        }
     } 
-   
 }
