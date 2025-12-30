@@ -1,4 +1,5 @@
 //Java program to demonstrate the basic operations of an array
+Level 1: Array Core Basics
 1. Initializing an array and Traversing an array 
 2. Taking user input for array size and elements 
 3. Updating elements at a specific index
@@ -7,6 +8,8 @@
 2. Taking user input for array size and elements 
 6. Calculating sum and average of elements 
 7. Reversing an array (basic swap approach)
+
+Level 2: Java Proficiency
 8. Sorting an array (using built-in methods like Arrays.sort)
 9. Merging two arrays (built-in methods or manual)
 10. Copying an array (System.arraycopy, clone, Arrays.copyOf)
@@ -14,6 +17,8 @@
 12. Converting array to string (Arrays.toString)
 13. Converting string to array (split, toCharArray)
 14. Frequency of elements (basic HashMap / loop)
+
+Level 3: DSA basis
 15. Second Largest and Second Smallest element
 16. Rotating an array (left & right)
 17. Intersection & Union of two arrays (using sets / built-in)
