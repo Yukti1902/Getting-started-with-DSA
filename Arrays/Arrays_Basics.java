@@ -29,6 +29,14 @@ public class Arrays_Basics
             numbers[i] = sc.nextInt();
         }
 
+        //Updating an element in array at a specific index
+        System.out.println("Enter the index that you want to update:");
+        int index = sc.nextInt();
+        System.out.println("Enter the new value:");
+        int newValue = sc.nextInt();
+        numbers[index] = newValue;
+        System.out.println("Updated array: " + Arrays.toString(numbers));
+
         //Traversing and output
         System.out.println("----Elements of an array----");
         for(int i=0; i<size; i++){
