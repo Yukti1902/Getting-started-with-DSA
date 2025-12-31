@@ -55,13 +55,25 @@ public class Arrays_Basics
         System.out.println(Arrays.toString(numbers));
         sc.close();
 
-        //Largest Element in array
-        int m = numbers[o];
-        for (int i = 0; i<numbers.length; i++){
-            if(numbers[i] > m){
-                m = numbers[i];
-                System.out.println("Largest element in the array: " + m);
-            }
+        //Reversing an array (Basic swap approach)
+        System.out.println("----Reversing the array----");
+        int start = 0;
+        int end = numbers.length - 1;
+        while(start < end){
+            int temp = numbers[start];
+            numbers[start] = numbers[end];
+            numbers[end] = temp;
+            start++;
+            end--;
         }
+        System.out.println("Reversed array: " + Arrays.toString(numbers));
+
+        //Deleting elements (set to default value: 0)
+        System.out.println("----Deleting the elements of the array----");
+        for(int i =0; i<size; i++){
+            int newvalueone = 0; 
+            numbers[i] = newvalueone; //alternate approach: Arrays.fill(numbers, 0)
+        }
+        System.out.println("Resulted array: " + Arrays.toString(numbers));
     } 
 }
