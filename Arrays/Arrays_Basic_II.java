@@ -60,7 +60,7 @@ public class Arrays_Basics_II {
             for(int j =0; j<freq.length; j++){
                 if(freq[i] == freq[j]){
                     count++;
-                }
+                } 
             }
             System.out.println("Frequency of " + freq[i] + "is" + count);
         }
