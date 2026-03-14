@@ -1,59 +1,84 @@
-# Getting Started with DSA
+Getting Started with DSA
 
-Welcome to the **Getting Started with DSA** repository!  
-This project contains simple Java implementations of fundamental Data Structures & Algorithms (DSA) concepts designed for beginners who want to build a solid foundation in problem-solving.
+Welcome to the Getting Started with DSA repository.
+This project contains Java implementations of fundamental Data Structures and Algorithms designed to help beginners build strong problem-solving skills.
 
----
+The repository follows a pattern-based learning approach, organizing concepts in the order commonly used in coding interviews and competitive programming.
 
-## 🚀 Project Overview
+🚀 Project Overview
 
-The goal of this repository is to help beginners learn DSA patterns step by step through practical examples.  
-Each folder contains organized, easy-to-understand code for a specific core DSA concept.
+The goal of this repository is to:
 
----
+Learn DSA concepts step by step
 
-## ✅ Folder Structure
+Understand common algorithmic patterns
 
-- 📂 `1_Arrays/`  
-  Array basics, Sliding Window, Two Pointers examples
+Practice clean Java implementations
 
-- 📂 `2_LinkedList/`  
-  Linked List fundamentals, Fast & Slow Pointers examples
+Build a structured DSA learning reference
 
-- 📂 `3_Binary_Search/`  
-  Classic Binary Search implementation examples
+Each folder focuses on a specific pattern or concept, with simple examples to understand the logic and implementation.
 
-- 📂 `4_Recursion_Backtracking/`  
-  Simple Recursion & Backtracking problems (Subsets, Permutations)
+📂 Folder Structure
 
-- 📂 `5_Dynamic_Programming/`  
-  Easy DP problems (Fibonacci, Climbing Stairs)
+📂 01_Array_Fundamentals
+Basic array operations: initialization, traversal, searching, updating, reversing, and sorting.
 
-- 📂 `6_Graph_Traversal/`  
-  BFS & DFS Traversal examples (Number of Islands, Connected Components)
+📂 02_Prefix_Sum
+Efficient computation of cumulative sums and range queries.
 
----
+📂 03_Sliding_Window
+Fixed and variable window techniques for optimized subarray and substring problems.
 
-## 📚 How to Use
+📂 04_Two_Pointers
+Two-pointer technique for pair searching, partitioning, and array optimization.
 
-1. Clone the repository to your local machine:
-    ```bash
-    git clone https://github.com/Yukti1902/Getting-started-with-DSA.git
-    ```
+📂 05_Hashing
+Use of HashMap and HashSet for frequency counting and fast lookups.
 
-2. Open the project in your preferred Java IDE (IntelliJ, VS Code, Eclipse).
+📂 06_Binary_Search
+Binary search and its variations for efficient searching in sorted structures.
 
-3. Explore the folder structure and run the sample Java files to understand each concept.
+📂 07_Recursion
+Recursive problem-solving including factorial, Fibonacci, and subset generation.
 
----
+📂 08_Linked_List
+Linked list operations such as traversal, reversal, cycle detection, and merging lists.
 
-## 🎯 Learning Goals
+📂 09_Stack
+Stack implementation and stack-based problems like Valid Parentheses and Next Greater Element.
 
-- Master core DSA patterns step by step
-- Understand problem-solving strategies in Java
-- Prepare for coding interviews and competitive programming
+📂 10_Queue
+Queue concepts including circular queues and queue implementation using stacks.
 
----
+📂 11_Backtracking
+Backtracking algorithms for permutations, combinations, Sudoku solver, and word search.
 
-## ⚡ Happy Learning! 🚀  
-Contributions and feedback are welcome 🎉
+📂 12_Dynamic_Programming
+Introductory dynamic programming problems like Fibonacci and Longest Increasing Subsequence.
+
+📂 13_Graphs
+Graph traversal algorithms such as BFS, DFS, and grid-based problems.
+
+📂 14_Matrices
+2D array and matrix operations including transpose, spiral traversal, and diagonal computations.
+
+📚 How to Use
+
+Clone the repository:
+
+git clone https://github.com/Yukti1902/Getting-started-with-DSA.git
+
+Open the project in your preferred IDE (IntelliJ, VS Code, Eclipse) and explore the folders to run the examples.
+
+🎯 Learning Goals
+
+Strengthen DSA fundamentals
+
+Understand algorithmic patterns
+
+Improve problem-solving in Java
+
+Prepare for technical interviews and coding platforms
+
+⭐ If you find this repository helpful, consider giving it a star.
