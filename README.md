@@ -1,6 +1,11 @@
 Getting Started with DSA
 
-Welcome to the Getting Started with DSA repository.
+![Language](https://img.shields.io/badge/Language-Java-blue)
+![Focus](https://img.shields.io/badge/Focus-Data%20Structures%20%26%20Algorithms-green)
+![Status](https://img.shields.io/badge/Status-Learning-orange)
+![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen)
+
+Welcome to the Getting Started with DSA repository!
 This project contains Java implementations of fundamental Data Structures and Algorithms designed to help beginners build strong problem-solving skills.
 
 The repository follows a pattern-based learning approach, organizing concepts in the order commonly used in coding interviews and competitive programming.
@@ -8,77 +13,71 @@ The repository follows a pattern-based learning approach, organizing concepts in
 🚀 Project Overview
 
 The goal of this repository is to:
-
 Learn DSA concepts step by step
-
 Understand common algorithmic patterns
-
 Practice clean Java implementations
-
 Build a structured DSA learning reference
 
 Each folder focuses on a specific pattern or concept, with simple examples to understand the logic and implementation.
 
 📂 Folder Structure
 
-📂 01_Array_Fundamentals
-Basic array operations: initialization, traversal, searching, updating, reversing, and sorting.
+📂 01_Array_Fundamentals/
+Basic array operations including initialization, traversal, searching, updating, reversing, and sorting.
 
-📂 02_Prefix_Sum
-Efficient computation of cumulative sums and range queries.
+📂 02_Prefix_Sum/
+Techniques for efficient cumulative computations and range queries.
 
-📂 03_Sliding_Window
-Fixed and variable window techniques for optimized subarray and substring problems.
+📂 03_Sliding_Window/
+Fixed and variable window techniques used to solve optimized subarray and substring problems.
 
-📂 04_Two_Pointers
+📂 04_Two_Pointers/
 Two-pointer technique for pair searching, partitioning, and array optimization.
 
-📂 05_Hashing
+📂 05_Hashing/
 Use of HashMap and HashSet for frequency counting and fast lookups.
 
-📂 06_Binary_Search
+📂 06_Binary_Search/
 Binary search and its variations for efficient searching in sorted structures.
 
-📂 07_Recursion
+📂 07_Recursion/
 Recursive problem-solving including factorial, Fibonacci, and subset generation.
 
-📂 08_Linked_List
+📂 08_Linked_List/
 Linked list operations such as traversal, reversal, cycle detection, and merging lists.
 
-📂 09_Stack
+📂 09_Stack/
 Stack implementation and stack-based problems like Valid Parentheses and Next Greater Element.
 
-📂 10_Queue
+📂 10_Queue/
 Queue concepts including circular queues and queue implementation using stacks.
 
-📂 11_Backtracking
+📂 11_Backtracking/
 Backtracking algorithms for permutations, combinations, Sudoku solver, and word search.
 
-📂 12_Dynamic_Programming
-Introductory dynamic programming problems like Fibonacci and Longest Increasing Subsequence.
+📂 12_Dynamic_Programming/
+Introductory dynamic programming problems such as Fibonacci and Longest Increasing Subsequence.
 
-📂 13_Graphs
-Graph traversal algorithms such as BFS, DFS, and grid-based problems.
+📂 13_Graphs/
+Graph traversal algorithms including BFS, DFS, and grid-based problems.
 
-📂 14_Matrices
+📂 14_Matrices/
 2D array and matrix operations including transpose, spiral traversal, and diagonal computations.
 
 📚 How to Use
 
-Clone the repository:
+Clone the repository to your local machine:
 
 git clone https://github.com/Yukti1902/Getting-started-with-DSA.git
 
-Open the project in your preferred IDE (IntelliJ, VS Code, Eclipse) and explore the folders to run the examples.
+Then open the project in your preferred Java IDE
+(IntelliJ IDEA, VS Code, Eclipse, etc.) and explore the folders to run the examples.
 
 🎯 Learning Goals
 
 Strengthen DSA fundamentals
-
 Understand algorithmic patterns
-
-Improve problem-solving in Java
-
+Improve problem-solving using Java
 Prepare for technical interviews and coding platforms
 
 ⭐ If you find this repository helpful, consider giving it a star.
