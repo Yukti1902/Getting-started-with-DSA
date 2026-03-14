@@ -1,4 +1,8 @@
 # **Getting Started with DSA**
+![Language](https://img.shields.io/badge/Language-Java-blue)
+![Focus](https://img.shields.io/badge/Focus-Data%20Structures%20%26%20Algorithms-green)
+![Status](https://img.shields.io/badge/Status-Learning-orange)
+![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen)
 
 **Language:** Java  
 **Focus:** Data Structures & Algorithms  
